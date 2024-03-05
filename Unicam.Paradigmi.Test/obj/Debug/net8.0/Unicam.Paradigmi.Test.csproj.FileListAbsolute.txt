@@ -1,0 +1,14 @@
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\bin\Debug\net8.0\Unicam.Paradigmi.Test.exe
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\bin\Debug\net8.0\Unicam.Paradigmi.Test.deps.json
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\bin\Debug\net8.0\Unicam.Paradigmi.Test.runtimeconfig.json
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\bin\Debug\net8.0\Unicam.Paradigmi.Test.dll
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\bin\Debug\net8.0\Unicam.Paradigmi.Test.pdb
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.AssemblyInfoInputs.cache
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.AssemblyInfo.cs
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.csproj.CoreCompileInputs.cache
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.dll
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\refint\Unicam.Paradigmi.Test.dll
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.pdb
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\Unicam.Paradigmi.Test.genruntimeconfig.cache
+D:\VisualStudio\WorkSpace\Unicam\Paradigmi\Unicam.Paradigmi\Unicam.Paradigmi.Test\obj\Debug\net8.0\ref\Unicam.Paradigmi.Test.dll
